@@ -1,6 +1,2 @@
 name:  canvas_gradient_with_mouse
-description:  A sample application
-
-#dependencies:
-#  js: any
-#  unittest: { sdk: unittest }
+description:  A simple canvas gradient example
